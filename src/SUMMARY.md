@@ -30,6 +30,5 @@
   - [Emerging trends](chapter-8-1.md)
   - [Potential challenges and opportunities](chapter-8-2.md)
   - [Preparing for the future](chapter-8-3.md)
-- [Chapter 9: Conclusion](chapter-9.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
