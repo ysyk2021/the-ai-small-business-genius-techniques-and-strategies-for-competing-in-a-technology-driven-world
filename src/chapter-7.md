@@ -1,5 +1,3 @@
-Chapter 7: Managing AI for Small Businesses
-===========================================
 
 Effective management of artificial intelligence (AI) technology is essential for small businesses to reap the benefits of this technology while minimizing potential risks. In this chapter, we will explore some strategies for managing AI in small businesses.
 

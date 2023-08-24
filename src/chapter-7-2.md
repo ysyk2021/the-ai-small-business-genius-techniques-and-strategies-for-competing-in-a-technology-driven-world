@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-=====================================================================================
 
 As small businesses increasingly adopt Artificial Intelligence (AI) technology, it is important to ensure transparency and accountability in the use of this technology. AI has the potential to impact individuals and society in profound ways, and small businesses have a responsibility to manage AI ethically and responsibly. In this chapter, we will explore the importance of transparency and accountability in managing AI for small businesses.
 

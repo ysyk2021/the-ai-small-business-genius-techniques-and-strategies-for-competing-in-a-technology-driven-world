@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI for Small Businesses
-================================================
 
 AI technology can offer numerous benefits for small businesses, but it is important to have a solid understanding of what AI is and how it works. In this chapter, we will explore the historical development of AI for small businesses, different types of AI, and how AI works for small businesses.
 

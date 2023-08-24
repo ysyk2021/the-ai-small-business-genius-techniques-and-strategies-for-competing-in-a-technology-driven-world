@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI for Small Businesses
-==================================================
 
 Small businesses can leverage AI technology to enhance productivity, competitiveness, and customer satisfaction. In this chapter, we will explore some applications of AI for small businesses.
 

@@ -1,5 +1,3 @@
-Types of AI for Small Businesses
-==================================================================================
 
 Artificial Intelligence (AI) has become a buzzword in the business world, and small businesses are no exception. AI has the potential to transform the way small businesses operate, improving productivity, efficiency, and profitability. In this chapter, we will explore the different types of AI that small businesses can adopt to stay competitive in the fast-paced technology-driven world.
 

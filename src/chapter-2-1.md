@@ -1,5 +1,3 @@
-Historical Overview of AI for Small Businesses
-================================================================================================
 
 Artificial Intelligence (AI) technology has been around since the mid-20th century, but it wasn't until recently that it became accessible to small businesses. In this chapter, we will provide a historical overview of the development of AI technology for small businesses.
 
