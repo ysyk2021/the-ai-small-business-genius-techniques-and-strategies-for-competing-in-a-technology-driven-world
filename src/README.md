@@ -6,3 +6,7 @@ This book will provide small business owners with a comprehensive understanding 
 Overall, the goal of this book is to empower small businesses to compete more effectively in a technology-driven world, leading to better business outcomes. Small business owners who understand the capabilities and limitations of AI technology can leverage it to optimize their operations, improve customer engagement, and increase efficiency and productivity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
