@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of small businesses, embracing AI-driven technologies is often crucial for staying competitive. However, implementing significant changes, such as integrating AI, can be met with resistance from both employees and management. This chapter explores strategies and techniques for overcoming resistance to change, enabling small businesses to harness the power of AI effectively.
 

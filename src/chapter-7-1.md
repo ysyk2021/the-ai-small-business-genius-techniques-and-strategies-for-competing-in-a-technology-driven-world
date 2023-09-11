@@ -1,5 +1,4 @@
-Chapter 6: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's technology-driven world, data is the lifeblood of small businesses. Effective data management is the key to unlocking the full potential of AI and gaining a competitive edge. This chapter explores the importance of data management for small enterprises and provides strategies for optimizing data utilization.
 

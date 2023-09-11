@@ -1,5 +1,4 @@
-Chapter 15: Preparing for the Future
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of technology and AI, small businesses must not only adapt to the present but also prepare for what lies ahead. This chapter delves into the strategies and considerations necessary for small businesses to future-proof themselves and remain competitive in a rapidly changing world.
 

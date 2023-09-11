@@ -1,5 +1,4 @@
-Chapter 8: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of AI-driven small businesses, maintaining transparency and accountability is paramount. This chapter explores the significance of these principles and provides strategies for integrating them into small business operations.
 

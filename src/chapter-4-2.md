@@ -1,5 +1,4 @@
-Chapter 11: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of AI technology, understanding and navigating the legal aspects is essential for small businesses. This chapter explores the key legal considerations that small businesses must address when adopting AI technologies.
 

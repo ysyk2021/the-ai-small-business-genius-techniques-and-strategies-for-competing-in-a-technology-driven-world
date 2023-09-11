@@ -1,5 +1,4 @@
-Chapter 10: Customer Service and Support
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Exceptional customer service is a cornerstone of small business success in today's technology-driven world. This chapter explores how AI can revolutionize customer service and support, enabling small businesses to deliver outstanding experiences to their customers.
 

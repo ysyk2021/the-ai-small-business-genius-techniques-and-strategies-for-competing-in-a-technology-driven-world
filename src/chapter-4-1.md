@@ -1,5 +1,4 @@
-Chapter 8: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fast-paced world of AI-driven small businesses, ethical considerations are paramount. As AI technologies become increasingly integrated into daily operations, it's crucial to navigate these advancements with a strong ethical framework. This chapter explores the ethical considerations that small businesses must address when harnessing the power of AI.
 

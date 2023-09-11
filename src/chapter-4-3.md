@@ -1,5 +1,4 @@
-Chapter 10: Privacy and Security Concerns
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In an era where data is the lifeblood of AI-driven small businesses, privacy and security concerns are of paramount importance. This chapter explores the critical aspects of safeguarding sensitive data and ensuring the privacy of customers, employees, and business operations in the context of AI adoption.
 

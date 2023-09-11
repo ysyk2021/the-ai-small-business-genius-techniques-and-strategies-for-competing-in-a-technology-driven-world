@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI for Small Businesses
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To understand the role of AI in small businesses today, it's essential to trace the historical evolution of artificial intelligence in the context of small enterprises. This chapter provides an overview of how AI has progressed and its impact on small businesses over the years.
 

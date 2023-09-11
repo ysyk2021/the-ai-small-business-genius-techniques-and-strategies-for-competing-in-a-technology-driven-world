@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI and small business, addressing and mitigating bias is a crucial ethical and operational consideration. This chapter explores the importance of recognizing and addressing bias and offers strategies to ensure fairness in AI applications.
 

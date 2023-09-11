@@ -1,5 +1,4 @@
-Chapter 4: Types of AI for Small Businesses
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI is a versatile technology that offers various tools and techniques, each tailored to specific applications. In this chapter, we'll explore the diverse types of AI that small businesses can leverage to enhance their operations and competitiveness.
 
